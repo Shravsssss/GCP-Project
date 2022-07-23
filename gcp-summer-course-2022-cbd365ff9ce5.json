@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "gcp-summer-course-2022",
+  "private_key_id": "cbd365ff9ce55ed6b733442fea526d00a499eee4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDAg8olqoMJNPYZ\n/WyLsjzeYz4OoHCdW/0hArS/ycVxR+PVz06FD1Tewde42QtZIDvHZY8wvM07HpwU\nZWcVqxW9UHSj4AMSGpdeffgkDaPdVHplPGsl2B9izeiRuiodr5PPdoFhiRET11Te\nsadgApYd6Tqx0vHM1c15OCxQpbwdmkKreRMgvxeTdFK71jWM3W2XIF/AXUzjRkUo\npedwjj/71+hrQPj0S1WfsasyOzkgr5T3LmPIdVJUNe715DQGDX4gWwE1forzW1EB\nHjonU47cJO+47gkhf9vSIwXZPXxdHHrKoLnVNWoqjsV2vVwvYwuymxl4MO1aKIyQ\nE1nJiKSXAgMBAAECggEAEh71nVkGT4y205hz/1buKCgNnyvWndaa+4tOfzUGCuqE\n6ssXgtUqxx2rlBXeCGwiebDjaxItJpue08P9vDTn7XN6yd1xUeLDN8eXXrFn/hKQ\nbiIN8I3ThSXeS9qgUeiv0ESWhhtJn7qnnZ9O+Bhrj/I0WP5YTfscBa/WFVtHBel7\nAklxo9vno22HiNQj24ZAPgyKtbFISUnYiunjH7PdT6MXICiy/XaiCkNEA6K0ui+K\nrVBoFXkLuMbNQ5CnPmRbGXtzwRVWAqEs9irKD6ZK7vVZ3LqQjPYl8om79zhusjUX\npyOgBQVXXfmvIwEyUsSi8xmp3J//w5utKgt5aH0koQKBgQDewLIKGX7t6psBIzeG\naQowKPeS/EFIvIiU0iQAsBO7eDnfzypPd5KpEaQXw6CfrtiS3bxilC0panLmUvya\ntlR/C7QyhfY+6CTXauCNBlplG5bXrba0W7e/GqD60An58ehLhT2PjlyoRrGVZvut\n7DKic+c3LQAZ28OTkBEXWdGetwKBgQDdP7bDiF9pWoF7G5/vajsCxBsPVZ5tcCdt\nnhwd5K/X25XXLJTMfeDUvng3d7QrHgrYl7WTfG3m5Uy7gJTittfmTjxzGlxaSw7f\nz+vDAhjkeuMlgcSN40sCsHPZroe/szFJGDKDz8Ho8r0/6cj4jc5McRdteeA52nLN\nHpvJacdJIQKBgAFHKb5VFx1WUz1WbmMfByfvlDwLpnQ8YKw56Gr4l6RjtDFMhvmd\nvgGqUD6yqKFB54wwKXyHTRsHuVEI+NoKYcG413fSvO7vdgamXlNwzeP2nI7wODQg\nspUuGe5Wczgz4xlL0maYcn+kqDArPxZoXIICGDmA0JdVY3HdSbvQkBtRAoGBAK0K\nXO4XJdBnWeeoFnGQ2zBxolxe8XbUhfHk/EahCqq/8jSFiKdbOFIL2kg/lik26PK3\nzOraIba51ka77TZYHQniXMMFdf+kvrBrlRBC/qcMOcWm9cynXY5v5Vv2dfOHud9a\nTn/rKNUBrORk+6rydcwxk0orTSTSZoFpFBz2X0ghAoGBAIG0eqtg+yK2jlEnepSG\nh0U8TdT1MXQibBazwjbVLX/xWOsWPWlvIg8Ao6KR0x6CooDmdOIT6VWlAdtgI9FD\nVfYJ3tgOd/4wr5USSMN+F5TsDxtav7IkmKgQacvtgPeB3iQFipH9yqoNqDElEwz0\niqdS6vffLETb2bpkVrK4KC3I\n-----END PRIVATE KEY-----\n",
+  "client_email": "sravya-yepuri-gcp@gcp-summer-course-2022.iam.gserviceaccount.com",
+  "client_id": "108176150128466402341",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sravya-yepuri-gcp%40gcp-summer-course-2022.iam.gserviceaccount.com"
+}
