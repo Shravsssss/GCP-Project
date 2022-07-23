@@ -3,11 +3,11 @@
 The project is done using Google Cloud Platform free trial version.
 
 Steps to run:
-1. In a terminal,
-	set FLASK_APP=app
+1. In a terminal,\
+	set FLASK_APP=app\
 	flask run
-2. In a separate terminal,
-	python gform.py
+2. In a separate terminal,\
+	python gform.py\
 	python gsheet.py
 3. Click the "Click here" button on the hosted webpage in the results tab.
 4. The model runs the code and displays it on the '/results' page.
