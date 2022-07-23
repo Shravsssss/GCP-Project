@@ -1,0 +1,1260 @@
+university,course,grescore,testscore,undergradscore,workex,status
+Arizona State University,Management Information System,313,107,62,6,2
+Arizona State University,Management Information System,314,106,72.485,6,2
+Arizona State University,Management Information System,307,109,62,1,2
+Arizona State University,Management Information System,290,109,66.5,48,2
+Arizona State University,Management Information System,306,90,77.9,24,2
+Arizona State University,Management Information System,310,100,85.12,2,2
+Arizona State University,Management Information System,309,88,73.055,16,2
+Arizona State University,Management Information System,310,103,71.25,29,2
+Arizona State University,Management Information System,301,93,65.23,26,2
+Arizona State University,Management Information System,305,89,84.17,17,2
+Arizona State University,Management Information System,312,115,73,33,2
+Arizona State University,Management Information System,319,100,64.03,28,2
+Arizona State University,Management Information System,305,88,57.7,12,2
+Arizona State University,Management Information System,307,87,70,27,2
+Arizona State University,Management Information System,306,92,71,36,2
+Arizona State University,Management Information System,315,104,77,3,1
+Arizona State University,Management Information System,311,101,73.53,25,1
+Arizona State University,Management Information System,312,110,81.7,24,1
+Arizona State University,Management Information System,307,103,76,34,1
+Arizona State University,Management Information System,321,102,71.25,12,1
+Arizona State University,Management Information System,310,101,66,22,1
+Arizona State University,Management Information System,306,103,63.17,27,1
+Arizona State University,Management Information System,305,91,64,15,1
+Arizona State University,Management Information System,299,88,83,30,1
+Arizona State University,Management Information System,314,91,75.335,16,1
+Arizona State University,Management Information System,305,109,77.9,31,1
+Arizona State University,Management Information System,318,111,63.46,6,1
+Arizona State University,Management Information System,308,84,68.5,43,0
+Arizona State University,Management Information System,301,91,59.85,21,0
+Arizona State University,Management Information System,310,96,68.68,41,0
+Arizona State University,Management Information System,312,105,71.725,27,0
+Arizona State University,Management Information System,301,88,81.7,55,0
+Arizona State University,Management Information System,303,90,67,14,0
+Arizona State University,Management Information System,308,84,68.94,43,0
+Arizona State University,Management Information System,305,98,53.63,18,0
+Arizona State University,Management Information System,302,101,79.8,41,0
+Arizona State University,Management Information System,303,89,65,15,0
+Arizona State University,Management Information System,316,107,68.02,6,0
+Arizona State University,Management Information System,302,92,71.1,35,0
+Arizona State University,Management Information System,311,101,82.2,18,0
+Arizona State University,Management Information System,308,86,76.95,14,0
+Arizona State University,Management Information System,299,97,59,12,0
+Boston University,Management Information System,313,101,73,30,2
+Boston University,Management Information System,336,107,57,30,2
+Boston University,Management Information System,301,101,60.325,10,2
+Boston University,Management Information System,296,90,53.865,8,1
+Boston University,Management Information System,316,106,64.125,5,1
+Boston University,Management Information System,310,112,72.3,22,1
+Boston University,Management Information System,310,97,56,82,1
+Boston University,Management Information System,300,97,57.8075,6,1
+Boston University,Management Information System,315,99,73.42,26,1
+Boston University,Management Information System,298,88,53,20,1
+Boston University,Management Information System,309,108,71.25,10,1
+Carnegie Mellon University,Information Management and Systems,312,110,86.355,16,2
+Carnegie Mellon University,Information Management and Systems,311,102,74,85,2
+Carnegie Mellon University,Information Management and Systems,320,104,65,60,2
+Carnegie Mellon University,Information Management and Systems,307,103,76,34,2
+Carnegie Mellon University,Information Management and Systems,324,113,78.04,5,2
+Carnegie Mellon University,Information Management and Systems,300,103,85.5,30,2
+Carnegie Mellon University,Information Management and Systems,324,110,63.58,16,2
+Carnegie Mellon University,Information Management and Systems,319,111,91.2,6,2
+Carnegie Mellon University,Information Management and Systems,318,109,72,60,2
+Carnegie Mellon University,Information Management and Systems,325,109,63.65,17,2
+Carnegie Mellon University,Information Management and Systems,322,116,76.95,6,2
+Carnegie Mellon University,Information Management and Systems,296,91,72,20,2
+Carnegie Mellon University,Information Management and Systems,312,98,77.8,31,2
+Carnegie Mellon University,Information Management and Systems,308,102,71.06,15,1
+Carnegie Mellon University,Information Management and Systems,315,108,83.3,8,1
+Carnegie Mellon University,Information Management and Systems,321,109,83,18,1
+Carnegie Mellon University,Information Management and Systems,310,107,70.205,14,1
+Carnegie Mellon University,Information Management and Systems,315,109,85.4,6,1
+Carnegie Mellon University,Information Management and Systems,315,110,81.7,3,1
+Carnegie Mellon University,Information Management and Systems,316,114,75,44,1
+Carnegie Mellon University,Information Management and Systems,316,104,81.225,60,1
+Carnegie Mellon University,Information Management and Systems,317,112,82.84,36,1
+Carnegie Mellon University,Information Management and Systems,314,108,66.5,24,1
+Carnegie Mellon University,Information Management and Systems,305,109,86,25,1
+Carnegie Mellon University,Information Management and Systems,314,109,77,38,1
+Carnegie Mellon University,Information Management and Systems,318,103,90,27,1
+Carnegie Mellon University,Information Management and Systems,320,111,75.81,30,1
+Carnegie Mellon University,Information Management and Systems,314,108,77.1,22,1
+Carnegie Mellon University,Information Management and Systems,321,106,78,36,1
+Carnegie Mellon University,Information Management and Systems,321,109,81,18,0
+Carnegie Mellon University,Information Management and Systems,319,101,85.45,7,0
+Carnegie Mellon University,Information Management and Systems,322,110,29.45,12,0
+Carnegie Mellon University,Information Management and Systems,324,106,74.1,33,0
+Carnegie Mellon University,Information Management and Systems,325,116,80.56,2,0
+Carnegie Mellon University,Information Management and Systems,315,109,63.84,29,0
+Carnegie Mellon University,Information Management and Systems,293,101,82.84,20,0
+Carnegie Mellon University,Information Management and Systems,321,108,63.22,21,0
+Carnegie Mellon University,Information Management and Systems,318,109,64.125,13,0
+Carnegie Mellon University,Information Management and Systems,314,114,77.2,20,0
+Carnegie Mellon University,Information Management and Systems,330,107,87.685,15,0
+Carnegie Mellon University,Information Management and Systems,329,110,70.3,4,0
+Carnegie Mellon University,Information Management and Systems,317,106,73.4,82,0
+Carnegie Mellon University,Information Management and Systems,320,110,58.9,40,0
+Carnegie Mellon University,Information Systems,318,97,77.425,6,2
+Carnegie Mellon University,Information Systems,312,110,72.39,2,2
+Carnegie Mellon University,Information Systems,308,98,65,25,2
+Carnegie Mellon University,Information Systems,313,111,80.75,31,2
+Carnegie Mellon University,Information Systems,321,104,71,76,2
+Carnegie Mellon University,Information Systems,325,108,69.54,6,2
+Carnegie Mellon University,Information Systems,328,112,75,30,2
+Carnegie Mellon University,Information Systems,316,102,75.905,13,2
+Carnegie Mellon University,Information Systems,322,105,67,68,2
+Carnegie Mellon University,Information Systems,310,103,76.95,1,2
+Carnegie Mellon University,Information Systems,323,99,68.78,2,2
+Carnegie Mellon University,Information Systems,319,100,71,54,2
+Carnegie Mellon University,Information Systems,314,104,58,53,2
+Carnegie Mellon University,Information Systems,311,104,81.7,2,2
+Carnegie Mellon University,Information Systems,321,106,74.005,20,2
+Carnegie Mellon University,Information Systems,332,112,81.7,15,2
+Carnegie Mellon University,Information Systems,317,105,60.135,57,2
+Carnegie Mellon University,Information Systems,308,100,86.45,21,2
+Carnegie Mellon University,Information Systems,311,113,58.05,36,2
+Carnegie Mellon University,Information Systems,316,102,72.01,42,1
+Carnegie Mellon University,Information Systems,320,107,69,60,1
+Carnegie Mellon University,Information Systems,316,116,77.805,3,1
+Carnegie Mellon University,Information Systems,322,110,79.04,27,1
+Carnegie Mellon University,Information Systems,324,109,70.3,21,1
+Carnegie Mellon University,Information Systems,317,106,83.695,32,1
+Carnegie Mellon University,Information Systems,316,112,80.56,21,1
+Carnegie Mellon University,Information Systems,317,104,78.85,23,1
+Carnegie Mellon University,Information Systems,323,112,66.21,27,1
+Carnegie Mellon University,Information Systems,315,105,90.82,19,1
+Carnegie Mellon University,Information Systems,314,109,81.7,24,1
+Carnegie Mellon University,Information Systems,318,118,80.085,30,1
+Carnegie Mellon University,Information Systems,319,113,73.4,26,1
+Carnegie Mellon University,Information Systems,326,111,80.56,24,1
+Carnegie Mellon University,Information Systems,329,105,87.495,13,1
+Carnegie Mellon University,Information Systems,320,105,76.95,24,1
+Carnegie Mellon University,Information Systems,318,104,87.78,16,1
+Carnegie Mellon University,Information Systems,329,113,72.675,40,0
+Carnegie Mellon University,Information Systems,309,101,72.295,9,0
+Carnegie Mellon University,Information Systems,314,110,72,60,0
+Carnegie Mellon University,Information Systems,322,106,69.255,26,0
+Carnegie Mellon University,Information Systems,315,101,80.275,24,0
+Carnegie Mellon University,Information Systems,321,109,60,29,0
+Carnegie Mellon University,Information Systems,319,110,85.31,6,0
+Carnegie Mellon University,Information Systems,307,100,84.645,24,0
+Carnegie Mellon University,Information Systems,325,114,73.34,25,0
+Carnegie Mellon University,Information Systems,320,104,62.32,19,0
+Carnegie Mellon University,Information Systems,317,110,64.505,1,0
+Carnegie Mellon University,Information Systems,316,108,71,13,0
+Carnegie Mellon University,Information Systems,308,95,71.43,25,0
+Carnegie Mellon University,Information Systems,313,98,87.4,13,0
+Carnegie Mellon University,Information Systems,332,112,89.775,4,0
+University of Delaware,Management Information System,309,109,87.78,40,2
+University of Delaware,Management Information System,305,101,51,54,2
+University of Delaware,Management Information System,311,109,69,48,2
+University of Delaware,Management Information System,304,90,57,30,2
+University of Delaware,Management Information System,304,90,57,30,2
+University of Delaware,Management Information System,296,78,70.8,30,2
+University of Delaware,Management Information System,308,112,76,30,2
+University of Delaware,Management Information System,295,109,71.345,32,1
+University of Delaware,Management Information System,303,93,64.1,2,1
+University of Delaware,Management Information System,313,108,61.465,12,1
+University of Delaware,Management Information System,303,108,73.112,2,1
+University of Delaware,Management Information System,300,93,70.3,16,1
+University of Delaware,Management Information System,306,92,64.125,1,0
+University of Delaware,Management Information System,305,93,68.4,25,0
+Drexel University,Information Systems,301,78,61.75,10,2
+Drexel University,Information Systems,313,100,65,12,2
+Drexel University,Information Systems,305,84,65.9,8,2
+Drexel University,Information Systems,292,85,72.39,36,2
+Drexel University,Information Systems,300,104,74.1,20,1
+Drexel University,Information Systems,305,96,79.8,4,1
+Drexel University,Information Systems,309,93,70.7275,4,1
+Drexel University,Information Systems,302,101,78.09,8,1
+Drexel University,Information Systems,308,100,64.505,27,1
+Drexel University,Information Systems,302,86,65,28,1
+Drexel University,Information Systems,314,114,64.695,6,1
+Drexel University,Information Systems,314,107,78.375,6,1
+Drexel University,Information Systems,307,101,79.99,41,1
+Drexel University,Information Systems,305,109,76,6,1
+Drexel University,Information Systems,306,92,60.135,-1,0
+Drexel University,Information Systems,309,94,61.275,13,0
+Drexel University,Information Systems,318,113,56.715,20,0
+Drexel University,Information Systems,302,96,78,74,0
+Drexel University,Information Systems,297,86,62.2,32,0
+Drexel University,Information Systems,318,110,77.9,20,0
+University of Arizona,Management Information System,312,100,67,60,2
+University of Arizona,Management Information System,312,102,65,20,2
+University of Arizona,Management Information System,318,102,67,32,2
+University of Arizona,Management Information System,311,106,68,19,2
+University of Arizona,Management Information System,315,112,78.28,1,2
+University of Arizona,Management Information System,308,101,74.005,16,2
+University of Arizona,Management Information System,308,93,74.1,26,2
+University of Arizona,Management Information System,319,101,62.415,15,2
+University of Arizona,Management Information System,322,110,53.77,6,2
+University of Arizona,Management Information System,311,106,68.23,19,2
+University of Arizona,Management Information System,319,114,63.745,14,2
+University of Arizona,Management Information System,320,96,80.37,42,2
+University of Arizona,Management Information System,318,109,69,30,2
+University of Arizona,Management Information System,308,108,82.175,36,2
+University of Arizona,Management Information System,317,103,79,60,2
+University of Arizona,Management Information System,321,117,87.2,30,2
+University of Arizona,Management Information System,307,99,67,16,2
+University of Arizona,Management Information System,326,115,89.11,1,1
+University of Arizona,Management Information System,308,105,85,60,1
+University of Arizona,Management Information System,317,110,65.835,25,1
+University of Arizona,Management Information System,315,104,77,3,1
+University of Arizona,Management Information System,315,104,66.215,18,1
+University of Arizona,Management Information System,325,115,86.64,4,1
+University of Arizona,Management Information System,319,114,63.745,14,1
+University of Arizona,Management Information System,309,108,81.415,37,1
+University of Arizona,Management Information System,312,110,81.7,24,1
+University of Arizona,Management Information System,305,109,86,25,1
+University of Arizona,Management Information System,325,115,90.725,26,1
+University of Arizona,Management Information System,326,111,60.1,42,1
+University of Arizona,Management Information System,316,112,80.56,21,1
+University of Arizona,Management Information System,313,101,68.2,42,1
+University of Arizona,Management Information System,316,103,81.01,13,1
+University of Arizona,Management Information System,317,101,67,18,0
+University of Arizona,Management Information System,308,84,68.5,43,0
+University of Arizona,Management Information System,314,111,67.925,3,0
+University of Arizona,Management Information System,311,110,66,50,0
+University of Arizona,Management Information System,311,101,72,24,0
+University of Arizona,Management Information System,325,116,80.56,2,0
+University of Arizona,Management Information System,313,104,68.4,19,0
+University of Arizona,Management Information System,316,102,73.72,54,0
+University of Arizona,Management Information System,309,103,74.1,13,0
+University of Arizona,Management Information System,313,97,66.5,23,0
+University of Arizona,Management Information System,315,109,65.77,30,0
+University of Arizona,Management Information System,293,101,82.84,20,0
+University of Arizona,Management Information System,305,100,85.5,43,0
+Illinois Institute of Technology,Management Information System,289,78,69.35,2,2
+Illinois Institute of Technology,Management Information System,298,91,51.205,3,2
+Illinois Institute of Technology,Management Information System,303,94,79.8,38,2
+Illinois Institute of Technology,Management Information System,289,92,66,90,2
+Illinois Institute of Technology,Management Information System,309,108,60,14,2
+Illinois Institute of Technology,Management Information System,293,77,62,14,2
+Illinois Institute of Technology,Management Information System,309,99,59,24,2
+Illinois Institute of Technology,Management Information System,304,92,61,37,2
+Illinois Institute of Technology,Management Information System,300,101,72.64,48,2
+Illinois Institute of Technology,Management Information System,302,100,60,18,2
+Illinois Institute of Technology,Management Information System,314,108,60,21,2
+Illinois Institute of Technology,Management Information System,303,84,63.57,17,2
+Illinois Institute of Technology,Management Information System,310,98,70.775,29,2
+Illinois Institute of Technology,Management Information System,315,105,61.275,7,2
+Illinois Institute of Technology,Management Information System,297,101,61.75,15,2
+Illinois Institute of Technology,Management Information System,301,83,55.5,60,2
+Illinois Institute of Technology,Management Information System,299,84,82.08,67,1
+Illinois Institute of Technology,Management Information System,293,93,56,8,1
+Illinois Institute of Technology,Management Information System,300,101,81,36,1
+Illinois Institute of Technology,Management Information System,303,91,73.15,1,1
+Illinois Institute of Technology,Management Information System,305,78,69,26,1
+Illinois Institute of Technology,Management Information System,296,93,66.5,34,1
+Illinois Institute of Technology,Management Information System,291,93,67,27,1
+Illinois Institute of Technology,Management Information System,294,93,54,35,1
+Illinois Institute of Technology,Management Information System,295,109,71.345,32,1
+Illinois Institute of Technology,Management Information System,311,109,58.14,18,1
+Illinois Institute of Technology,Management Information System,300,88,60,29,1
+Illinois Institute of Technology,Management Information System,302,92,66,24,1
+Illinois Institute of Technology,Management Information System,307,78,65.55,26,1
+Illinois Institute of Technology,Management Information System,304,109,62.5,4,1
+Illinois Institute of Technology,Management Information System,289,81,58.14,8,0
+Illinois Institute of Technology,Management Information System,306,104,58,5,0
+Illinois Institute of Technology,Management Information System,300,92,57,12,0
+Illinois Institute of Technology,Management Information System,296,90,53.865,8,0
+Illinois Institute of Technology,Management Information System,290,109,66.5,48,0
+Illinois Institute of Technology,Management Information System,307,101,54,31,0
+Illinois Institute of Technology,Management Information System,299,93,51.87,2,0
+Illinois Institute of Technology,Management Information System,297,78,59,12,0
+Illinois Institute of Technology,Management Information System,286,101,58,30,0
+Illinois Institute of Technology,Management Information System,292,80,58,55,0
+Illinois Institute of Technology,Management Information System,302,99,63.65,22,0
+Illinois Institute of Technology,Management Information System,306,103,52,1,0
+Illinois Institute of Technology,Management Information System,305,90,65.455,19,0
+Illinois Institute of Technology,Management Information System,300,90,55,4,0
+Iowa State University,Management Information System,309,114,76,2,2
+Iowa State University,Management Information System,307,101,72.295,37,2
+Iowa State University,Management Information System,311,85,69.35,19,2
+Iowa State University,Management Information System,318,104,73.72,37,2
+Iowa State University,Management Information System,317,102,78.24,21,2
+Iowa State University,Management Information System,309,105,62,24,2
+Iowa State University,Management Information System,299,86,60,18,2
+Iowa State University,Management Information System,318,101,78.85,3,2
+Iowa State University,Management Information System,310,95,76,30,2
+Iowa State University,Management Information System,303,101,73.15,30,2
+Iowa State University,Management Information System,315,115,59.59,30,2
+Iowa State University,Management Information System,309,114,75.525,3,1
+Iowa State University,Management Information System,316,114,84.265,18,1
+Iowa State University,Management Information System,313,105,69,11,1
+Iowa State University,Management Information System,311,114,74.3,18,1
+Iowa State University,Management Information System,325,99,60.8,8,1
+Iowa State University,Management Information System,308,100,81.7,34,1
+Iowa State University,Management Information System,313,106,72.01,40,1
+Iowa State University,Management Information System,307,101,73.055,33,1
+Iowa State University,Management Information System,306,97,80,55,1
+Iowa State University,Management Information System,305,99,72.2,72,1
+Iowa State University,Management Information System,309,106,72.8,20,1
+Iowa State University,Management Information System,311,109,70,29,1
+Iowa State University,Management Information System,309,97,77,43,1
+Iowa State University,Management Information System,311,102,65.98,25,1
+Iowa State University,Management Information System,315,100,76.57,42,1
+Iowa State University,Management Information System,308,99,62.5,56,1
+Iowa State University,Management Information System,310,103,71.25,20,1
+Iowa State University,Management Information System,308,109,75.525,18,0
+Iowa State University,Management Information System,304,96,87.78,74,0
+Iowa State University,Management Information System,301,84,72.865,50,0
+Iowa State University,Management Information System,310,107,63.745,12,0
+Iowa State University,Management Information System,304,104,82.65,16,0
+Iowa State University,Management Information System,310,106,65.455,25,0
+Iowa State University,Management Information System,316,98,85.31,22,0
+Iowa State University,Management Information System,309,106,68.115,29,0
+Iowa State University,Management Information System,318,113,56.715,20,0
+Iowa State University,Management Information System,313,101,66,17,0
+Iowa State University,Management Information System,304,101,74.67,8,0
+Iowa State University,Management Information System,320,112,57,48,0
+Iowa State University,Management Information System,306,90,68.685,17,0
+Iowa State University,Management Information System,308,107,66.785,11,0
+Iowa State University,Management Information System,303,108,62.6,33,0
+Iowa State University,Management Information System,314,101,69.8345,46,0
+Iowa State University,Management Information System,292,92,65,30,0
+Iowa State University,Management Information System,305,92,71.2,36,0
+Iowa State University,Management Information System,303,101,73.055,22,0
+Indiana University Bloomington,Management Information System,315,110,81.7,3,2
+Indiana University Bloomington,Management Information System,314,106,72.485,6,2
+Indiana University Bloomington,Management Information System,321,112,72,28,2
+Indiana University Bloomington,Management Information System,315,103,66,11,2
+Indiana University Bloomington,Management Information System,318,112,80.3,16,2
+Indiana University Bloomington,Management Information System,309,100,61,40,2
+Indiana University Bloomington,Management Information System,321,100,81.225,37,2
+Indiana University Bloomington,Management Information System,328,109,62,33,2
+Indiana University Bloomington,Management Information System,318,106,69.92,2,2
+Indiana University Bloomington,Management Information System,323,104,82.65,7,2
+Indiana University Bloomington,Management Information System,324,104,89.9,29,2
+Indiana University Bloomington,Management Information System,319,105,64.6,6,2
+Indiana University Bloomington,Management Information System,327,110,67.6875,39,2
+Indiana University Bloomington,Management Information System,307,107,76,18,2
+Indiana University Bloomington,Management Information System,316,104,89.5,38,2
+Indiana University Bloomington,Management Information System,316,112,64.64,29,2
+Indiana University Bloomington,Management Information System,330,113,77.3,37,2
+Indiana University Bloomington,Management Information System,310,101,84,27,2
+Indiana University Bloomington,Management Information System,317,110,76.38,24,2
+Indiana University Bloomington,Management Information System,325,116,80.56,2,1
+Indiana University Bloomington,Management Information System,303,102,65,9,1
+Indiana University Bloomington,Management Information System,320,112,80.48,28,1
+Indiana University Bloomington,Management Information System,316,103,81.01,13,1
+Indiana University Bloomington,Management Information System,323,103,75.24,7,1
+Indiana University Bloomington,Management Information System,318,118,80.085,30,1
+Indiana University Bloomington,Management Information System,326,115,89.11,1,1
+Indiana University Bloomington,Management Information System,319,113,88.35,11,1
+Indiana University Bloomington,Management Information System,313,111,80.75,31,1
+Indiana University Bloomington,Management Information System,319,112,71.44,35,1
+Indiana University Bloomington,Management Information System,322,110,79.04,27,0
+Indiana University Bloomington,Management Information System,317,114,61.52,36,0
+Indiana University Bloomington,Management Information System,311,101,72,24,0
+Indiana University Bloomington,Management Information System,316,114,70,26,0
+Indiana University Bloomington,Management Information System,312,108,67.83,6,0
+Indiana University Bloomington,Management Information System,312,110,81.7,24,0
+Indiana University Bloomington,Management Information System,312,105,64.86,18,0
+Indiana University Bloomington,Management Information System,326,113,68.5,44,0
+Indiana University Bloomington,Management Information System,324,110,63.58,16,0
+Indiana University Bloomington,Management Information System,319,113,73.4,26,0
+Indiana University Bloomington,Management Information System,324,114,78.85,30,0
+Indiana University Bloomington,Management Information System,312,102,65,20,0
+Indiana University Bloomington,Management Information System,320,108,65,41,0
+Indiana University Bloomington,Management Information System,312,98,67.165,14,0
+Indiana University Bloomington,Management Information System,308,108,82.175,36,0
+Indiana University Bloomington,Management Information System,314,108,71,28,0
+Indiana University Bloomington,Management Information System,306,99,83.505,30,0
+"University of Minnesota, Twin Cities",Management Information System,321,104,71,76,2
+"University of Minnesota, Twin Cities",Management Information System,320,102,66.5,30,2
+"University of Minnesota, Twin Cities",Management Information System,306,94,68,20,2
+"University of Minnesota, Twin Cities",Management Information System,309,102,71,30,1
+"University of Minnesota, Twin Cities",Management Information System,316,103,81,28,0
+"University of Minnesota, Twin Cities",Management Information System,300,94,76.95,29,0
+"University of Minnesota, Twin Cities",Management Information System,321,113,83.885,20,0
+Northeastern University,Information Systems,308,92,63.33,60,2
+Northeastern University,Information Systems,320,108,66,15,2
+Northeastern University,Information Systems,303,85,59.85,6,2
+Northeastern University,Information Systems,287,87,83.6,18,2
+Northeastern University,Information Systems,308,101,81,20,2
+Northeastern University,Information Systems,313,107,62,6,2
+Northeastern University,Information Systems,289,102,61,33,2
+Northeastern University,Information Systems,310,96,65,24,2
+Northeastern University,Information Systems,301,97,67.8,40,2
+Northeastern University,Information Systems,293,81,64,44,2
+Northeastern University,Information Systems,305,78,69,26,2
+Northeastern University,Information Systems,300,85,61.94,17,2
+Northeastern University,Information Systems,296,93,62,45,2
+Northeastern University,Information Systems,290,101,65.3,4,2
+Northeastern University,Information Systems,310,99,57,43,2
+Northeastern University,Information Systems,305,102,79.135,3,1
+Northeastern University,Information Systems,306,104,80.22,20,1
+Northeastern University,Information Systems,296,83,66.595,3,1
+Northeastern University,Information Systems,309,104,56,38,1
+Northeastern University,Information Systems,331,107,64.36,24,1
+Northeastern University,Information Systems,303,87,68,60,1
+Northeastern University,Information Systems,306,96,73,60,1
+Northeastern University,Information Systems,299,84,82.08,67,1
+Northeastern University,Information Systems,302,102,53.2,8,1
+Northeastern University,Information Systems,293,101,82.84,20,0
+Northeastern University,Information Systems,292,72,59,48,0
+Northeastern University,Information Systems,289,101,78.53,24,0
+Northeastern University,Information Systems,300,97,67.45,5,0
+Northeastern University,Information Systems,293,87,56.24,11,0
+Northeastern University,Information Systems,315,111,77.14,25,0
+Northeastern University,Information Systems,307,99,60.35,20,0
+Northeastern University,Information Systems,303,88,70.1,23,0
+Northeastern University,Information Systems,290,86,78.375,48,0
+Northeastern University,Information Systems,304,90,66,46,0
+Northeastern University,Information Systems,316,107,77,40,0
+Northeastern University,Information Systems,301,92,71,20,0
+Northwestern University,Management Information System,331,107,64.36,24,2
+Northwestern University,Management Information System,319,104,87.495,30,2
+Northwestern University,Management Information System,317,105,80,60,2
+Northwestern University,Management Information System,318,110,77.9,20,2
+Northwestern University,Management Information System,326,110,68.4,50,2
+Northwestern University,Management Information System,316,109,64,36,2
+Northwestern University,Management Information System,326,104,74.005,12,2
+Northwestern University,Management Information System,311,99,66.5,20,2
+Northwestern University,Management Information System,318,106,76.95,30,2
+Northwestern University,Management Information System,317,104,66.5,30,2
+Northwestern University,Management Information System,311,101,62,54,1
+Northwestern University,Management Information System,318,105,64.6,42,1
+New York University,Information Systems,310,112,66.5,30,2
+New York University,Information Systems,312,110,81.7,24,2
+New York University,Information Systems,302,98,76,29,2
+New York University,Information Systems,322,110,53.77,6,2
+New York University,Information Systems,314,106,55.5,24,2
+New York University,Information Systems,310,106,69.73,18,2
+New York University,Information Systems,308,109,75.525,18,2
+New York University,Information Systems,311,97,61.75,9,2
+New York University,Information Systems,314,102,64,38,2
+New York University,Information Systems,309,96,74.005,7,2
+New York University,Information Systems,316,117,91.5,6,2
+New York University,Information Systems,307,104,61,84,2
+New York University,Information Systems,319,110,90.25,16,2
+New York University,Information Systems,311,96,68,18,2
+New York University,Information Systems,311,107,52,35,1
+New York University,Information Systems,323,107,67.45,44,1
+New York University,Information Systems,312,104,72.295,20,1
+New York University,Information Systems,320,107,69,60,1
+New York University,Information Systems,316,113,74.67,36,1
+New York University,Information Systems,310,103,70,88,1
+New York University,Information Systems,311,98,69.445,25,1
+New York University,Information Systems,304,92,68.4,16,1
+New York University,Information Systems,311,97,73.15,35,1
+New York University,Information Systems,326,111,60.1,42,1
+New York University,Information Systems,308,100,87.685,26,1
+New York University,Information Systems,314,100,76,41,1
+New York University,Information Systems,320,113,75.05,17,1
+New York University,Information Systems,320,100,90,34,1
+New York University,Information Systems,310,115,71.5,48,0
+New York University,Information Systems,310,90,71,6,0
+New York University,Information Systems,312,91,74.1,14,0
+New York University,Information Systems,321,104,81.13,10,0
+New York University,Information Systems,313,112,55,43,0
+New York University,Information Systems,316,102,63.65,9,0
+New York University,Information Systems,307,98,61.655,30,0
+New York University,Information Systems,306,103,63,20,0
+New York University,Information Systems,315,109,66.5,20,0
+New York University,Information Systems,321,113,66.5,12,0
+New York University,Information Systems,302,98,72.77,30,0
+New York University,Information Systems,315,109,70.06,10,0
+Pennsylvania State University,Information Science,315,102,77.9,16,2
+Pennsylvania State University,Information Science,312,96,81.7,15,2
+Pennsylvania State University,Information Science,316,117,86.45,4,1
+Pennsylvania State University,Information Science,327,112,73.15,32,1
+Pennsylvania State University,Information Science,315,100,78.945,19,1
+Pennsylvania State University,Information Science,316,109,71.4,20,1
+Pennsylvania State University,Information Science,324,100,66.12,25,1
+Pennsylvania State University,Information Science,325,108,76.6,24,1
+Pennsylvania State University,Information Science,305,107,80.18,20,1
+Pennsylvania State University,Information Science,317,110,86.64,24,1
+Pennsylvania State University,Information Science,313,100,80.45,32,0
+Rochester Institute of Technology,Information Science,300,101,62.89,54,2
+Rochester Institute of Technology,Information Science,303,88,58,44,2
+Rochester Institute of Technology,Information Science,306,94,72.9,12,2
+Rochester Institute of Technology,Information Science,310,91,64,6,2
+Rochester Institute of Technology,Information Science,295,98,58,42,2
+Rochester Institute of Technology,Information Science,295,85,57.5,14,2
+Rochester Institute of Technology,Information Science,289,75,63,39,2
+Rochester Institute of Technology,Information Science,305,90,76.855,24,2
+Rochester Institute of Technology,Information Science,303,109,56,20,2
+Rochester Institute of Technology,Information Science,301,99,66,30,2
+Rochester Institute of Technology,Information Science,305,103,69,10,2
+Rochester Institute of Technology,Information Science,304,90,57,30,2
+Rochester Institute of Technology,Information Science,306,104,80.22,20,1
+Rochester Institute of Technology,Information Science,311,102,62.8,27,1
+Rochester Institute of Technology,Information Science,299,85,58.5,24,1
+Rochester Institute of Technology,Information Science,300,103,85.5,30,1
+Rochester Institute of Technology,Information Science,317,105,64.22,12,1
+Rochester Institute of Technology,Information Science,299,93,66,48,1
+Rochester Institute of Technology,Information Science,301,85,62,37,1
+Rochester Institute of Technology,Information Science,312,103,80,36,1
+Rochester Institute of Technology,Information Science,301,89,68.78,3,1
+Rochester Institute of Technology,Information Science,307,102,61,28,1
+Rochester Institute of Technology,Information Science,297,94,69.8,30,1
+Rochester Institute of Technology,Information Science,300,93,58.79,26,1
+Rochester Institute of Technology,Information Science,305,104,66.5,6,1
+Rochester Institute of Technology,Information Science,302,101,64,18,1
+Rochester Institute of Technology,Information Science,309,104,69.35,30,1
+Rochester Institute of Technology,Information Science,303,88,59,1,1
+Rochester Institute of Technology,Information Science,305,109,76,6,1
+Rochester Institute of Technology,Information Science,300,98,68.21,54,1
+Rochester Institute of Technology,Information Science,328,104,57,18,0
+Rochester Institute of Technology,Information Science,305,95,66.5,1,0
+Rochester Institute of Technology,Information Science,293,96,72.01,5,0
+Rochester Institute of Technology,Information Science,294,96,84.55,40,0
+Rochester Institute of Technology,Information Science,297,92,56.68,24,0
+Rochester Institute of Technology,Information Science,302,93,74,24,0
+Rochester Institute of Technology,Information Science,312,107,53,11,0
+Rochester Institute of Technology,Information Science,294,88,62,31,0
+Rochester Institute of Technology,Information Science,297,86,62.2,32,0
+Rochester Institute of Technology,Information Science,307,93,64.22,3,0
+Rochester Institute of Technology,Information Science,302,85,58,18,0
+Rochester Institute of Technology,Information Science,318,101,78.85,3,0
+Rensselaer Polytechnic Institute,Management Information System,329,110,70.3,4,2
+Rensselaer Polytechnic Institute,Management Information System,321,104,62.1395,2,2
+Rensselaer Polytechnic Institute,Management Information System,302,104,58.425,5,2
+Rensselaer Polytechnic Institute,Management Information System,312,91,68.59,30,2
+Rensselaer Polytechnic Institute,Management Information System,334,115,66.405,60,2
+Rensselaer Polytechnic Institute,Management Information System,320,104,75,30,2
+Rensselaer Polytechnic Institute,Management Information System,318,106,76.95,30,2
+Rensselaer Polytechnic Institute,Management Information System,318,111,63.46,6,1
+Rensselaer Polytechnic Institute,Management Information System,322,107,77,60,1
+Rensselaer Polytechnic Institute,Management Information System,327,104,69.16,9,1
+Rensselaer Polytechnic Institute,Management Information System,317,101,73.15,34,1
+Rensselaer Polytechnic Institute,Management Information System,319,114,60,30,1
+Rensselaer Polytechnic Institute,Management Information System,322,110,65,10,1
+Rensselaer Polytechnic Institute,Management Information System,313,100,62,10,1
+Rensselaer Polytechnic Institute,Management Information System,321,113,66.5,12,1
+Rensselaer Polytechnic Institute,Management Information System,317,109,58.8,50,0
+Rutgers University-New Brunswick,Information Science,296,105,68,18,2
+Rutgers University-New Brunswick,Information Science,306,96,84.55,27,2
+Rutgers University-New Brunswick,Information Science,310,107,70.205,14,1
+Rutgers University-New Brunswick,Information Science,303,97,63,37,1
+Rutgers University-New Brunswick,Information Science,294,86,74,39,1
+Rutgers University-New Brunswick,Information Science,301,88,81.7,55,1
+Rutgers University-New Brunswick,Information Science,317,103,76.95,6,0
+"Rutgers University, Newark",Management Information System,304,102,80.75,52,2
+"Rutgers University, Newark",Management Information System,302,98,62.7,18,2
+"Rutgers University, Newark",Management Information System,303,99,71.68,40,2
+"Rutgers University, Newark",Management Information System,309,99,69.15,17,2
+"Rutgers University, Newark",Management Information System,299,100,55,25,2
+"Rutgers University, Newark",Management Information System,302,100,60,18,2
+"Rutgers University, Newark",Management Information System,310,100,61.75,4,2
+"Rutgers University, Newark",Management Information System,306,97,76.665,26,2
+"Rutgers University, Newark",Management Information System,306,94,72.9,12,2
+"Rutgers University, Newark",Management Information System,322,101,58.89,24,2
+"Rutgers University, Newark",Management Information System,303,85,59.85,6,1
+"Rutgers University, Newark",Management Information System,300,93,69.4,82,1
+"Rutgers University, Newark",Management Information System,294,95,59.375,12,1
+"Rutgers University, Newark",Management Information System,298,95,67,30,1
+"Rutgers University, Newark",Management Information System,303,91,73.15,1,1
+"Rutgers University, Newark",Management Information System,293,95,69.35,33,1
+"Rutgers University, Newark",Management Information System,291,93,67,27,1
+"Rutgers University, Newark",Management Information System,294,93,54,35,1
+"Rutgers University, Newark",Management Information System,308,95,33.25,3,1
+"Rutgers University, Newark",Management Information System,297,101,64.6,19,1
+"Rutgers University, Newark",Management Information System,299,91,63.55,32,1
+"Rutgers University, Newark",Management Information System,310,96,56.4,36,1
+"Rutgers University, Newark",Management Information System,296,78,60,36,0
+"Rutgers University, Newark",Management Information System,310,107,63.745,12,0
+"Rutgers University, Newark",Management Information System,313,112,55,43,0
+Santa Clara University,Information Systems,289,102,61,33,2
+Santa Clara University,Information Systems,306,101,71.98,48,2
+Santa Clara University,Information Systems,293,85,55,32,2
+Santa Clara University,Information Systems,309,107,63.92,26,2
+Santa Clara University,Information Systems,302,81,62,24,2
+Santa Clara University,Information Systems,305,102,71.82,53,2
+Santa Clara University,Information Systems,304,110,65.04,10,2
+Santa Clara University,Information Systems,303,109,56,20,2
+Santa Clara University,Information Systems,312,87,71,30,2
+Santa Clara University,Information Systems,315,95,54,30,2
+Santa Clara University,Information Systems,304,100,78.185,46,1
+Santa Clara University,Information Systems,306,104,71.25,34,1
+Santa Clara University,Information Systems,298,104,68.685,7,1
+Santa Clara University,Information Systems,307,106,64,30,1
+Santa Clara University,Information Systems,301,92,62,5,1
+Santa Clara University,Information Systems,307,97,72,52,1
+Santa Clara University,Information Systems,322,110,29.45,12,1
+Santa Clara University,Information Systems,301,100,63.4,37,1
+Santa Clara University,Information Systems,308,100,64,29,1
+Santa Clara University,Information Systems,322,107,74.47,28,1
+Santa Clara University,Information Systems,309,94,82.27,2,1
+Santa Clara University,Information Systems,319,101,62.415,15,1
+Santa Clara University,Information Systems,304,96,87.78,74,1
+Santa Clara University,Information Systems,317,94,80,6,1
+Santa Clara University,Information Systems,309,94,54,6,0
+Santa Clara University,Information Systems,302,93,67.45,30,0
+Santa Clara University,Information Systems,294,89,73,23,0
+Santa Clara University,Information Systems,299,101,76.76,12,0
+Santa Clara University,Information Systems,297,81,66,17,0
+Santa Clara University,Information Systems,292,85,51,8,0
+Santa Clara University,Information Systems,298,92,57,30,0
+Santa Clara University,Information Systems,281,81,54,30,0
+Stevens Institute of Technology,Information Systems,308,92,63.33,60,2
+Stevens Institute of Technology,Information Systems,292,82,66,44,2
+Stevens Institute of Technology,Information Systems,289,78,69.35,2,2
+Stevens Institute of Technology,Information Systems,291,93,60.325,9,2
+Stevens Institute of Technology,Information Systems,291,79,64.41,32,2
+Stevens Institute of Technology,Information Systems,298,91,51.205,3,2
+Stevens Institute of Technology,Information Systems,295,80,57.57,10,2
+Stevens Institute of Technology,Information Systems,305,94,63.65,1,2
+Stevens Institute of Technology,Information Systems,292,89,67.735,38,2
+Stevens Institute of Technology,Information Systems,294,83,75.4,15,2
+Stevens Institute of Technology,Information Systems,297,81,62,46,2
+Stevens Institute of Technology,Information Systems,296,90,53.865,8,2
+Stevens Institute of Technology,Information Systems,294,86,74,39,2
+Stevens Institute of Technology,Information Systems,294,81,76,24,2
+Stevens Institute of Technology,Information Systems,304,101,79,30,2
+Stevens Institute of Technology,Information Systems,308,100,61.465,38,1
+Stevens Institute of Technology,Information Systems,303,85,59.85,6,1
+Stevens Institute of Technology,Information Systems,301,107,65,41,1
+Stevens Institute of Technology,Information Systems,304,90,76,61,1
+Stevens Institute of Technology,Information Systems,300,91,55,6,1
+Stevens Institute of Technology,Information Systems,331,107,64.36,24,1
+Stevens Institute of Technology,Information Systems,301,101,57,3,1
+Stevens Institute of Technology,Information Systems,297,101,64.6,19,1
+Stevens Institute of Technology,Information Systems,314,108,66.5,24,1
+Stevens Institute of Technology,Information Systems,310,96,56.4,36,1
+Stevens Institute of Technology,Information Systems,293,98,64,45,0
+Stevens Institute of Technology,Information Systems,295,101,85.26,2,0
+Stevens Institute of Technology,Information Systems,289,95,64.46,30,0
+Stevens Institute of Technology,Information Systems,294,93,54,35,0
+Stevens Institute of Technology,Information Systems,300,92,57,12,0
+Stevens Institute of Technology,Information Systems,307,86,64,7,0
+Stevens Institute of Technology,Information Systems,289,89,66.5,10,0
+Stevens Institute of Technology,Information Systems,291,93,68.02,1,0
+Stevens Institute of Technology,Information Systems,299,109,62.32,6,0
+Stevens Institute of Technology,Information Systems,299,87,71.345,3,0
+Stevens Institute of Technology,Information Systems,299,90,55,12,0
+Stevens Institute of Technology,Information Systems,302,91,64,67,0
+Stevens Institute of Technology,Information Systems,300,100,64,39,0
+Stevens Institute of Technology,Information Systems,298,88,75.4,30,0
+Stevens Institute of Technology,Information Systems,295,88,57,24,0
+Stevens Institute of Technology,Information Systems,287,101,55.56,1,0
+University at Buffalo SUNY,Management Information System,304,88,79,57,2
+University at Buffalo SUNY,Management Information System,313,106,64,59,2
+University at Buffalo SUNY,Management Information System,313,107,62,6,2
+University at Buffalo SUNY,Management Information System,308,93,81,27,2
+University at Buffalo SUNY,Management Information System,312,102,65,20,2
+University at Buffalo SUNY,Management Information System,318,108,70,31,2
+University at Buffalo SUNY,Management Information System,306,104,80.22,20,2
+University at Buffalo SUNY,Management Information System,305,91,64,15,2
+University at Buffalo SUNY,Management Information System,313,98,67.45,32,2
+University at Buffalo SUNY,Management Information System,304,105,35.055,24,2
+University at Buffalo SUNY,Management Information System,322,107,74.47,28,2
+University at Buffalo SUNY,Management Information System,307,95,65.1,48,2
+University at Buffalo SUNY,Management Information System,311,110,64,72,2
+University at Buffalo SUNY,Management Information System,308,105,85,60,1
+University at Buffalo SUNY,Management Information System,301,93,83.5,20,1
+University at Buffalo SUNY,Management Information System,320,117,59.42,30,1
+University at Buffalo SUNY,Management Information System,317,110,65.835,25,1
+University at Buffalo SUNY,Management Information System,323,109,80.3,13,1
+University at Buffalo SUNY,Management Information System,304,83,79.12,18,1
+University at Buffalo SUNY,Management Information System,310,90,71,6,1
+University at Buffalo SUNY,Management Information System,314,96,76,24,1
+University at Buffalo SUNY,Management Information System,310,102,60,26,1
+University at Buffalo SUNY,Management Information System,317,101,67,18,1
+University at Buffalo SUNY,Management Information System,308,84,68.5,43,1
+University at Buffalo SUNY,Management Information System,311,111,59.8,40,1
+University at Buffalo SUNY,Management Information System,317,109,75.335,57,1
+University at Buffalo SUNY,Management Information System,312,92,75.2,50,1
+University at Buffalo SUNY,Management Information System,305,109,64.77,29,0
+University at Buffalo SUNY,Management Information System,303,91,73.15,1,0
+University at Buffalo SUNY,Management Information System,309,105,87,30,0
+University at Buffalo SUNY,Management Information System,310,107,70.205,14,0
+University at Buffalo SUNY,Management Information System,308,100,58,12,0
+University at Buffalo SUNY,Management Information System,305,88,85.5,40,0
+University at Buffalo SUNY,Management Information System,307,101,81.985,45,0
+University at Buffalo SUNY,Management Information System,308,101,69.35,9,0
+University at Buffalo SUNY,Management Information System,304,88,64.36,47,0
+University at Buffalo SUNY,Management Information System,300,104,74.11,29,0
+University at Buffalo SUNY,Management Information System,308,100,87.685,26,0
+University at Buffalo SUNY,Management Information System,312,110,64.6,60,0
+University at Buffalo SUNY,Management Information System,308,90,69,54,0
+University at Buffalo SUNY,Management Information System,305,98,74.12,34,0
+University at Buffalo SUNY,Management Information System,308,100,64,29,0
+University at Buffalo SUNY,Management Information System,311,101,73.53,25,0
+University at Buffalo SUNY,Management Information System,301,84,72.865,50,0
+Syracuse University,Management Information System,304,98,74.195,28,2
+Syracuse University,Management Information System,311,111,59.8,40,2
+Syracuse University,Management Information System,320,113,75.05,17,2
+Syracuse University,Management Information System,308,90,77.52,43,2
+Syracuse University,Management Information System,299,88,83,30,2
+Syracuse University,Management Information System,306,96,62,15,2
+Syracuse University,Management Information System,303,97,66.5,16,2
+Syracuse University,Management Information System,300,88,60,29,2
+Syracuse University,Management Information System,303,87,64.6,8,2
+Syracuse University,Management Information System,315,112,78.28,1,2
+Syracuse University,Management Information System,322,107,74.47,28,2
+Syracuse University,Management Information System,296,91,72,20,2
+Syracuse University,Management Information System,308,101,74.005,16,2
+Syracuse University,Management Information System,302,90,73.625,6,2
+Syracuse University,Management Information System,306,101,74.22,8,2
+Syracuse University,Management Information System,308,93,74.1,26,2
+Syracuse University,Management Information System,311,106,68.23,19,2
+Syracuse University,Management Information System,297,81,62,46,2
+Syracuse University,Management Information System,306,97,73,42,1
+Syracuse University,Management Information System,317,101,63.7,1,1
+Syracuse University,Management Information System,300,88,77.71,24,1
+Syracuse University,Management Information System,308,99,65,19,1
+Syracuse University,Management Information System,310,107,70.205,14,1
+Syracuse University,Management Information System,302,101,65,30,1
+Syracuse University,Management Information System,303,94,70.015,27,1
+Syracuse University,Management Information System,308,95,33.25,3,1
+Syracuse University,Management Information System,304,96,74.765,12,1
+Syracuse University,Management Information System,307,94,79,37,1
+Syracuse University,Management Information System,312,104,82.65,20,1
+Syracuse University,Management Information System,319,114,63.745,14,1
+Syracuse University,Management Information System,300,93,69.4,82,0
+Syracuse University,Management Information System,302,86,65.37,27,0
+Syracuse University,Management Information System,308,89,71.25,32,0
+Syracuse University,Management Information System,300,99,67.83,39,0
+Syracuse University,Management Information System,302,81,56.99,42,0
+Syracuse University,Management Information System,302,97,65,27,0
+Syracuse University,Management Information System,299,97,72.3,48,0
+Syracuse University,Management Information System,307,101,54,31,0
+Syracuse University,Management Information System,297,99,55.81,24,0
+Syracuse University,Management Information System,305,98,50.22,17,0
+Syracuse University,Management Information System,296,93,64.3,64,0
+Syracuse University,Management Information System,300,90,66.5,12,0
+Syracuse University,Management Information System,297,88,81,20,0
+Syracuse University,Management Information System,302,101,78.09,8,0
+"Texas A&M; University, College Station",Management Information System,316,102,72.01,42,2
+"Texas A&M; University, College Station",Management Information System,314,100,70.3,24,2
+"Texas A&M; University, College Station",Management Information System,312,98,77.8,31,2
+"Texas A&M; University, College Station",Management Information System,317,103,79,60,2
+"Texas A&M; University, College Station",Management Information System,309,103,74.1,13,2
+"Texas A&M; University, College Station",Management Information System,315,103,66,11,2
+"Texas A&M; University, College Station",Management Information System,321,104,71,76,2
+"Texas A&M; University, College Station",Management Information System,318,112,80.3,16,2
+"Texas A&M; University, College Station",Management Information System,315,100,72,43,2
+"Texas A&M; University, College Station",Management Information System,324,104,89.9,29,2
+"Texas A&M; University, College Station",Management Information System,316,102,75.905,13,2
+"Texas A&M; University, College Station",Management Information System,327,110,70.585,20,2
+"Texas A&M; University, College Station",Management Information System,322,112,69.8,31,2
+"Texas A&M; University, College Station",Management Information System,317,100,80.43,43,2
+"Texas A&M; University, College Station",Management Information System,317,114,76.19,21,2
+"Texas A&M; University, College Station",Management Information System,320,117,59.42,30,1
+"Texas A&M; University, College Station",Management Information System,318,103,78.4,-1,1
+"Texas A&M; University, College Station",Management Information System,322,110,79.04,27,1
+"Texas A&M; University, College Station",Management Information System,309,101,80.75,16,1
+"Texas A&M; University, College Station",Management Information System,320,111,75.81,30,1
+"Texas A&M; University, College Station",Management Information System,330,108,68.4,12,1
+"Texas A&M; University, College Station",Management Information System,312,104,82.65,20,1
+"Texas A&M; University, College Station",Management Information System,325,116,80.56,2,1
+"Texas A&M; University, College Station",Management Information System,309,94,88,60,1
+"Texas A&M; University, College Station",Management Information System,296,91,72,20,1
+"Texas A&M; University, College Station",Management Information System,309,114,75.525,3,1
+"Texas A&M; University, College Station",Management Information System,307,103,76,34,1
+"Texas A&M; University, College Station",Management Information System,315,109,65.77,30,1
+"Texas A&M; University, College Station",Management Information System,306,104,71.25,34,0
+"Texas A&M; University, College Station",Management Information System,317,101,67,18,0
+"Texas A&M; University, College Station",Management Information System,315,104,66.215,18,0
+"Texas A&M; University, College Station",Management Information System,312,110,81.7,24,0
+"Texas A&M; University, College Station",Management Information System,313,101,68.2,42,0
+"Texas A&M; University, College Station",Management Information System,307,105,72,54,0
+"Texas A&M; University, College Station",Management Information System,311,107,68,16,0
+"Texas A&M; University, College Station",Management Information System,308,101,69.35,9,0
+"Texas A&M; University, College Station",Management Information System,305,100,85.5,43,0
+"Texas A&M; University, College Station",Management Information System,319,101,85.45,7,0
+"Texas A&M; University, College Station",Management Information System,318,109,72,60,0
+"Texas A&M; University, College Station",Management Information System,306,100,61.1,40,0
+"Texas A&M; University, College Station",Management Information System,305,95,81.13,34,0
+"Texas A&M; University, College Station",Management Information System,316,101,80.465,36,0
+"Texas A&M; University, College Station",Management Information System,300,103,85.5,30,0
+"Texas A&M; University, College Station",Management Information System,308,104,77.9,23,0
+"Texas A&M; University, College Station",Management Information System,308,98,65,25,0
+"Texas A&M; University, College Station",Management Information System,320,108,65,41,0
+"University of California, Irvine",ICS with concentration in Informatics,313,107,76,31,2
+"University of California, Irvine",ICS with concentration in Informatics,317,96,76,20,2
+"University of California, Irvine",ICS with concentration in Informatics,316,109,71.4,20,1
+"University of California, Irvine",ICS with concentration in Informatics,323,103,66.5,30,1
+"University of California, Irvine",ICS with concentration in Informatics,318,107,76.665,25,0
+"University of California, Irvine",ICS with concentration in Informatics,317,110,86.64,24,0
+"University of California, Irvine",ICS with concentration in Informatics,321,111,57,26,0
+University of Cincinnati,Management Information System,319,114,63.745,14,2
+University of Cincinnati,Management Information System,309,109,87.78,40,2
+University of Cincinnati,Management Information System,309,101,70,27,2
+University of Cincinnati,Management Information System,302,101,79.8,41,2
+University of Cincinnati,Management Information System,319,101,62.415,15,2
+University of Cincinnati,Management Information System,311,106,68.23,19,2
+University of Cincinnati,Management Information System,319,114,63.745,14,2
+University of Cincinnati,Management Information System,314,106,72.485,6,2
+University of Cincinnati,Management Information System,304,101,79,30,2
+University of Cincinnati,Management Information System,317,111,86.6,20,2
+University of Cincinnati,Management Information System,323,97,62,49,2
+University of Cincinnati,Management Information System,307,99,67,16,2
+University of Cincinnati,Management Information System,324,104,89.9,29,2
+University of Cincinnati,Management Information System,307,101,72.295,37,2
+University of Cincinnati,Management Information System,311,98,68.4,18,2
+University of Cincinnati,Management Information System,317,109,60.23,13,2
+University of Cincinnati,Management Information System,316,105,70.3,45,2
+University of Cincinnati,Management Information System,310,114,78,38,2
+University of Cincinnati,Management Information System,308,105,85,60,1
+University of Cincinnati,Management Information System,311,101,75,32,1
+University of Cincinnati,Management Information System,320,117,59.42,30,1
+University of Cincinnati,Management Information System,313,98,84.74,44,1
+University of Cincinnati,Management Information System,309,101,71.4,36,1
+University of Cincinnati,Management Information System,310,99,71,38,1
+University of Cincinnati,Management Information System,311,111,59.8,40,1
+University of Cincinnati,Management Information System,312,104,82.65,20,1
+University of Cincinnati,Management Information System,311,91,80.94,60,1
+University of Cincinnati,Management Information System,315,96,67.355,25,1
+University of Cincinnati,Management Information System,315,109,65.77,30,1
+University of Cincinnati,Management Information System,321,112,63,60,1
+University of Cincinnati,Management Information System,316,103,81.01,13,1
+University of Cincinnati,Management Information System,320,113,75.05,17,1
+University of Cincinnati,Management Information System,326,113,68.5,44,1
+University of Cincinnati,Management Information System,313,109,81.74,25,1
+University of Cincinnati,Management Information System,309,100,81.795,39,1
+University of Cincinnati,Management Information System,311,100,77,25,0
+University of Cincinnati,Management Information System,317,110,65.835,25,0
+University of Cincinnati,Management Information System,319,101,85.45,7,0
+University of Cincinnati,Management Information System,306,103,63.17,27,0
+University of Cincinnati,Management Information System,300,103,85.5,30,0
+University of Cincinnati,Management Information System,305,98,74.12,34,0
+University of Cincinnati,Management Information System,307,94,61.085,40,0
+University of Cincinnati,Management Information System,315,112,78.28,1,0
+University of Cincinnati,Management Information System,306,95,65,20,0
+University of Cincinnati,Management Information System,304,104,82.65,16,0
+University of Cincinnati,Management Information System,296,91,72,20,0
+University of Cincinnati,Management Information System,306,94,72.2,35,0
+University of Cincinnati,Management Information System,297,90,84.55,26,0
+University of Cincinnati,Management Information System,304,101,79,30,0
+University of Florida,Management Information System,306,104,80.22,20,2
+University of Florida,Management Information System,304,100,82.8,15,2
+University of Florida,Management Information System,326,113,73.625,6,2
+University of Florida,Management Information System,313,98,67.45,32,2
+University of Florida,Management Information System,304,100,64,35,2
+University of Florida,Management Information System,305,102,79.135,3,2
+University of Florida,Management Information System,306,100,78,17,2
+University of Florida,Management Information System,309,94,61.275,13,2
+University of Florida,Management Information System,293,93,73.055,17,2
+University of Florida,Management Information System,308,100,64,29,2
+University of Florida,Management Information System,303,95,65.55,12,2
+University of Florida,Management Information System,304,111,70,12,2
+University of Florida,Management Information System,303,100,64.505,19,2
+University of Florida,Management Information System,321,103,78.85,16,2
+University of Florida,Management Information System,306,93,65.74,47,2
+University of Florida,Management Information System,303,95,64.125,15,1
+University of Florida,Management Information System,302,88,65,5,1
+University of Florida,Management Information System,326,111,60.1,42,1
+University of Florida,Management Information System,305,107,76,18,1
+University of Florida,Management Information System,311,98,69.445,25,1
+University of Florida,Management Information System,309,100,81.795,39,1
+University of Florida,Management Information System,304,92,68.4,16,1
+University of Florida,Management Information System,302,107,78.375,13,1
+University of Florida,Management Information System,297,99,55.81,24,1
+University of Florida,Management Information System,309,107,77.995,14,1
+University of Florida,Management Information System,312,105,64.86,18,1
+University of Florida,Management Information System,302,101,79.8,41,1
+University of Florida,Management Information System,306,104,68.02,18,1
+University of Florida,Management Information System,309,95,68,23,1
+University of Florida,Management Information System,320,108,65,20,1
+University of Florida,Management Information System,302,96,61.5,48,1
+University of Florida,Management Information System,308,97,78.375,41,1
+University of Florida,Management Information System,292,117,60.895,5,0
+University of Florida,Management Information System,315,96,67.355,25,0
+University of Florida,Management Information System,316,112,65.17,5,0
+University of Florida,Management Information System,330,110,79.8,30,0
+University of Florida,Management Information System,290,97,55,30,0
+University of Florida,Management Information System,303,101,84.645,11,0
+University of Florida,Management Information System,301,108,66.43,24,0
+University of Florida,Management Information System,313,109,79.23,3,0
+University of Florida,Management Information System,305,97,70,26,0
+University of Florida,Management Information System,305,90,65,31,0
+University of Florida,Management Information System,315,104,69.54,13,0
+University of Florida,Management Information System,298,80,71.4,34,0
+University of Illinois at Chicago,Management Information System,308,92,63.33,60,2
+University of Illinois at Chicago,Management Information System,302,98,73,40,2
+University of Illinois at Chicago,Management Information System,329,114,68.4,51,2
+University of Illinois at Chicago,Management Information System,303,97,66.5,16,2
+University of Illinois at Chicago,Management Information System,318,102,67,32,2
+University of Illinois at Chicago,Management Information System,315,112,78.28,1,2
+University of Illinois at Chicago,Management Information System,322,107,74.47,28,2
+University of Illinois at Chicago,Management Information System,308,101,74.005,16,2
+University of Illinois at Chicago,Management Information System,314,99,82,55,2
+University of Illinois at Chicago,Management Information System,313,100,65,12,2
+University of Illinois at Chicago,Management Information System,316,114,84.265,18,2
+University of Illinois at Chicago,Management Information System,302,93,74.005,30,2
+University of Illinois at Chicago,Management Information System,304,101,79,30,2
+University of Illinois at Chicago,Management Information System,307,99,67,16,2
+University of Illinois at Chicago,Management Information System,304,85,75.4,24,1
+University of Illinois at Chicago,Management Information System,306,96,73,60,1
+University of Illinois at Chicago,Management Information System,301,93,83.5,20,1
+University of Illinois at Chicago,Management Information System,310,101,71.19,27,1
+University of Illinois at Chicago,Management Information System,320,117,59.42,30,1
+University of Illinois at Chicago,Management Information System,306,104,71.25,34,1
+University of Illinois at Chicago,Management Information System,303,99,62.02,58,1
+University of Illinois at Chicago,Management Information System,309,94,61.275,13,1
+University of Illinois at Chicago,Management Information System,304,88,64.36,47,1
+University of Illinois at Chicago,Management Information System,310,107,70.205,14,1
+University of Illinois at Chicago,Management Information System,312,96,66.405,9,1
+University of Illinois at Chicago,Management Information System,317,101,67,18,1
+University of Illinois at Chicago,Management Information System,310,96,56.4,36,1
+University of Illinois at Chicago,Management Information System,305,109,64.77,29,1
+University of Illinois at Chicago,Management Information System,315,104,66.215,18,1
+University of Illinois at Chicago,Management Information System,304,96,74.765,12,1
+University of Illinois at Chicago,Management Information System,312,101,71.82,20,1
+University of Illinois at Chicago,Management Information System,300,93,69.4,82,0
+University of Illinois at Chicago,Management Information System,303,91,73.15,1,0
+University of Illinois at Chicago,Management Information System,303,81,75,37,0
+University of Illinois at Chicago,Management Information System,291,85,74.15,41,0
+University of Illinois at Chicago,Management Information System,300,92,72.39,44,0
+University of Illinois at Chicago,Management Information System,297,90,84.55,26,0
+University of Illinois at Chicago,Management Information System,302,86,65.37,27,0
+University of Illinois at Chicago,Management Information System,296,93,64.3,64,0
+University of Illinois at Chicago,Management Information System,301,84,72.865,50,0
+University of Illinois at Chicago,Management Information System,300,88,77.71,24,0
+University of Illinois at Chicago,Management Information System,305,94,63.27,2,0
+University of Illinois at Chicago,Management Information System,301,89,59.5,48,0
+University of Illinois at Chicago,Management Information System,304,97,72.06,46,0
+University of Illinois at Chicago,Management Information System,309,94,54,6,0
+"University of Maryland, College Park",Management Information System,311,101,73.53,25,2
+"University of Maryland, College Park",Management Information System,308,106,79.99,9,2
+"University of Maryland, College Park",Management Information System,300,103,85.5,30,2
+"University of Maryland, College Park",Management Information System,303,97,66.5,16,2
+"University of Maryland, College Park",Management Information System,305,109,86,25,2
+"University of Maryland, College Park",Management Information System,318,102,67,32,2
+"University of Maryland, College Park",Management Information System,318,108,62.13,5,2
+"University of Maryland, College Park",Management Information System,305,100,85.5,43,2
+"University of Maryland, College Park",Management Information System,324,109,58.9,40,2
+"University of Maryland, College Park",Management Information System,322,114,64,29,2
+"University of Maryland, College Park",Management Information System,317,103,79,60,2
+"University of Maryland, College Park",Management Information System,313,101,80.14,48,2
+"University of Maryland, College Park",Management Information System,310,98,61.845,6,2
+"University of Maryland, College Park",Management Information System,310,106,75.6,42,1
+"University of Maryland, College Park",Management Information System,306,94,72.2,35,1
+"University of Maryland, College Park",Management Information System,310,107,70.205,14,1
+"University of Maryland, College Park",Management Information System,317,101,67,18,1
+"University of Maryland, College Park",Management Information System,311,98,69.445,25,1
+"University of Maryland, College Park",Management Information System,313,104,61.75,1,1
+"University of Maryland, College Park",Management Information System,312,98,67.165,14,1
+"University of Maryland, College Park",Management Information System,315,108,83.3,8,1
+"University of Maryland, College Park",Management Information System,317,104,75.2,35,1
+"University of Maryland, College Park",Management Information System,316,112,80.56,21,1
+"University of Maryland, College Park",Management Information System,312,105,64.86,18,1
+"University of Maryland, College Park",Management Information System,307,105,72,54,1
+"University of Maryland, College Park",Management Information System,316,103,81.01,13,1
+"University of Maryland, College Park",Management Information System,310,95,66.5,6,1
+"University of Maryland, College Park",Management Information System,318,104,60.8,15,0
+"University of Maryland, College Park",Management Information System,304,96,74.765,12,0
+"University of Maryland, College Park",Management Information System,313,112,55,43,0
+"University of Maryland, College Park",Management Information System,309,95,68,23,0
+"University of Maryland, College Park",Management Information System,313,102,63.46,16,0
+"University of Maryland, College Park",Management Information System,309,99,66,30,0
+"University of Maryland, College Park",Management Information System,307,100,63,48,0
+"University of Maryland, College Park",Management Information System,311,96,80.12,27,0
+"University of Maryland, College Park",Management Information System,303,91,66,35,0
+"University of Maryland, College Park",Management Information System,311,98,83.98,27,0
+"University of Maryland, College Park",Management Information System,312,97,66.67,18,0
+"University of Maryland, College Park",Management Information System,309,88,73.055,16,0
+"University of Maryland, College Park",Management Information System,314,100,69,61,0
+"University of Maryland, College Park",Management Information System,307,100,67,53,0
+"University of Maryland, College Park",Management Information System,305,109,65.45,18,0
+"University of Maryland, College Park",Management Information System,314,104,58,53,0
+University of North Carolina at Charlotte,Management Information System,304,109,62.5,4,2
+University of North Carolina at Charlotte,Management Information System,309,109,87.78,40,2
+University of North Carolina at Charlotte,Management Information System,302,98,65,29,2
+University of North Carolina at Charlotte,Management Information System,308,90,78.47,15,2
+University of North Carolina at Charlotte,Management Information System,299,88,75.525,5,2
+University of North Carolina at Charlotte,Management Information System,302,93,74.005,30,2
+University of North Carolina at Charlotte,Management Information System,304,111,70,12,2
+University of North Carolina at Charlotte,Management Information System,302,81,56.99,42,2
+University of North Carolina at Charlotte,Management Information System,287,101,73.5,32,2
+University of North Carolina at Charlotte,Management Information System,304,93,78,60,2
+University of North Carolina at Charlotte,Management Information System,305,97,59.185,4,2
+University of North Carolina at Charlotte,Management Information System,294,93,61.75,2,2
+University of North Carolina at Charlotte,Management Information System,299,95,64,42,2
+University of North Carolina at Charlotte,Management Information System,299,92,57.8,12,2
+University of North Carolina at Charlotte,Management Information System,306,97,76.665,26,2
+University of North Carolina at Charlotte,Management Information System,310,96,56.4,36,1
+University of North Carolina at Charlotte,Management Information System,308,84,68.5,43,1
+University of North Carolina at Charlotte,Management Information System,297,94,80.75,27,1
+University of North Carolina at Charlotte,Management Information System,298,91,69.3,26,1
+University of North Carolina at Charlotte,Management Information System,310,90,71,6,1
+University of North Carolina at Charlotte,Management Information System,306,96,62,15,1
+University of North Carolina at Charlotte,Management Information System,303,95,65.55,12,1
+University of North Carolina at Charlotte,Management Information System,301,101,84.25,50,1
+University of North Carolina at Charlotte,Management Information System,305,95,67,10,1
+University of North Carolina at Charlotte,Management Information System,302,101,58.8,13,1
+University of North Carolina at Charlotte,Management Information System,310,111,56,28,1
+University of North Carolina at Charlotte,Management Information System,305,98,79.325,19,1
+University of North Carolina at Charlotte,Management Information System,300,107,55,10,1
+University of North Carolina at Charlotte,Management Information System,309,100,81.795,39,1
+University of North Carolina at Charlotte,Management Information System,291,93,67,27,0
+University of North Carolina at Charlotte,Management Information System,293,93,73.055,17,0
+University of North Carolina at Charlotte,Management Information System,301,88,81.7,55,0
+University of North Carolina at Charlotte,Management Information System,302,83,59.85,45,0
+University of North Carolina at Charlotte,Management Information System,303,93,64.1,2,0
+University of North Carolina at Charlotte,Management Information System,295,91,68.305,21,0
+University of North Carolina at Charlotte,Management Information System,297,83,58.425,1,0
+University of North Carolina at Charlotte,Management Information System,310,90,61.75,18,0
+University of North Carolina at Charlotte,Management Information System,305,90,65.455,19,0
+University of North Carolina at Charlotte,Management Information System,313,90,59,18,0
+University of North Carolina at Charlotte,Management Information System,300,93,70.3,16,0
+University of North Carolina at Charlotte,Management Information System,290,86,78.375,48,0
+University of North Carolina at Charlotte,Management Information System,300,84,62,42,0
+University of North Carolina at Charlotte,Management Information System,307,93,60,30,0
+University of Pennsylvania,Management Information System,311,109,60,55,2
+University of Pennsylvania,Management Information System,301,101,60.325,10,2
+University of Pennsylvania,Management Information System,317,104,76,10,1
+University of Texas at Dallas,Information Technology and Management,306,85,80.94,25,2
+University of Texas at Dallas,Information Technology and Management,298,80,62,30,2
+University of Texas at Dallas,Information Technology and Management,307,85,73,14,2
+University of Texas at Dallas,Information Technology and Management,307,107,76,18,2
+University of Texas at Dallas,Information Technology and Management,304,101,64.91,26,2
+University of Texas at Dallas,Information Technology and Management,306,114,70.87,19,2
+University of Texas at Dallas,Information Technology and Management,311,108,70.3,6,2
+University of Texas at Dallas,Information Technology and Management,295,84,64.5,44,2
+University of Texas at Dallas,Information Technology and Management,301,101,62.795,23,2
+University of Texas at Dallas,Information Technology and Management,309,97,69.75,45,2
+University of Texas at Dallas,Information Technology and Management,317,105,60.135,57,2
+University of Texas at Dallas,Information Technology and Management,306,94,65,36,2
+University of Texas at Dallas,Information Technology and Management,310,90,69.445,36,2
+University of Texas at Dallas,Information Technology and Management,305,95,69.065,13,2
+University of Texas at Dallas,Information Technology and Management,313,110,50.35,2,1
+University of Texas at Dallas,Information Technology and Management,308,101,81,20,1
+University of Texas at Dallas,Information Technology and Management,300,87,63,30,1
+University of Texas at Dallas,Information Technology and Management,313,100,65,12,1
+University of Texas at Dallas,Information Technology and Management,306,96,73,60,1
+University of Texas at Dallas,Information Technology and Management,310,115,68,16,1
+University of Texas at Dallas,Information Technology and Management,306,87,77.9,8,1
+University of Texas at Dallas,Information Technology and Management,310,93,87.6,19,1
+University of Texas at Dallas,Information Technology and Management,308,98,65.93,36,1
+University of Texas at Dallas,Information Technology and Management,312,101,71.82,20,1
+University of Texas at Dallas,Information Technology and Management,299,97,72.3,48,1
+University of Texas at Dallas,Information Technology and Management,295,84,69,60,0
+University of Texas at Dallas,Information Technology and Management,309,117,70,12,0
+University of Texas at Dallas,Information Technology and Management,285,93,67,12,0
+University of Texas at Dallas,Information Technology and Management,297,94,80.75,27,0
+University of Texas at Dallas,Information Technology and Management,297,89,69,26,0
+University of Texas at Dallas,Information Technology and Management,300,98,68.97,6,0
+University of Texas at Dallas,Information Technology and Management,304,101,66.5,45,0
+University of Texas at Dallas,Information Technology and Management,299,93,71.44,4,0
+University of Texas at Dallas,Information Technology and Management,305,86,74,36,0
+University of Texas at Dallas,Information Technology and Management,302,102,66.1,34,0
+University of Texas at Dallas,Information Technology and Management,301,106,61,37,0
+University of Texas at Dallas,Information Technology and Management,308,106,74.5,22,0
+University of Texas at Dallas,Information Technology and Management,306,102,72,40,0
+University of Texas at Dallas,Information Technology and Management,300,86,84,36,0
+University of Texas at Dallas,Information Technology and Management,301,85,62,37,0
+University of Texas at Dallas,Information Technology and Management,306,103,79.61,41,0
+University of Texas at Dallas,Information Technology and Management,309,105,62,24,0
+University of Texas at Arlington,Management Information System,289,94,70,30,2
+University of Texas at Arlington,Management Information System,292,82,66,44,2
+University of Texas at Arlington,Management Information System,307,101,55.765,9,2
+University of Texas at Arlington,Management Information System,294,89,58,34,2
+University of Texas at Arlington,Management Information System,295,80,57.57,10,2
+University of Texas at Arlington,Management Information System,297,93,72.485,29,2
+University of Texas at Arlington,Management Information System,294,109,60,7,2
+University of Texas at Arlington,Management Information System,300,92,72.39,44,2
+University of Texas at Arlington,Management Information System,306,101,71.98,48,2
+University of Texas at Arlington,Management Information System,301,92,62,5,2
+University of Texas at Arlington,Management Information System,292,89,67.735,38,2
+University of Texas at Arlington,Management Information System,292,87,61,18,2
+University of Texas at Arlington,Management Information System,295,93,70.3,24,2
+University of Texas at Arlington,Management Information System,299,94,76.9,46,1
+University of Texas at Arlington,Management Information System,304,99,57,6,1
+University of Texas at Arlington,Management Information System,301,91,58,40,1
+University of Texas at Arlington,Management Information System,298,91,51.205,3,1
+University of Texas at Arlington,Management Information System,310,115,71.5,48,1
+University of Texas at Arlington,Management Information System,303,81,75,37,1
+University of Texas at Arlington,Management Information System,310,96,68.68,41,1
+University of Texas at Arlington,Management Information System,296,93,75.525,19,1
+University of Texas at Arlington,Management Information System,313,99,80.94,49,1
+University of Texas at Arlington,Management Information System,310,102,59,53,1
+University of Texas at Arlington,Management Information System,299,105,78,2,1
+University of Texas at Arlington,Management Information System,300,92,57,12,1
+University of Texas at Arlington,Management Information System,304,87,75,32,1
+University of Texas at Arlington,Management Information System,302,102,53.2,8,0
+University of Texas at Arlington,Management Information System,296,90,53.865,8,0
+University of Texas at Arlington,Management Information System,294,87,69.44,25,0
+University of Texas at Arlington,Management Information System,304,93,68,47,0
+University of Texas at Arlington,Management Information System,292,93,66,7,0
+University of Texas at Arlington,Management Information System,289,109,64,9,0
+University of Texas at Arlington,Management Information System,292,85,62.035,9,0
+University of Texas at Arlington,Management Information System,289,101,78.53,24,0
+University of Texas at Arlington,Management Information System,291,93,60,7,0
+University of Texas at Arlington,Management Information System,297,78,59,12,0
+University of Texas at Arlington,Management Information System,295,95,60,23,0
+University of Texas at Arlington,Management Information System,307,84,59.85,24,0
+University of Texas at Arlington,Management Information System,300,96,75,60,0
+University of Texas at Austin,Management Information System,322,110,73.15,40,2
+University of Texas at Austin,Management Information System,328,109,62,33,2
+University of Texas at Austin,Management Information System,319,113,78.4,25,2
+University of Texas at Austin,Management Information System,314,101,69.8345,46,2
+University of Texas at Austin,Management Information System,322,101,58.89,24,2
+University of Texas at Austin,Management Information System,326,114,81.7,36,2
+University of Texas at Austin,Management Information System,330,110,79.04,20,2
+University of Texas at Austin,Management Information System,320,102,66.5,30,2
+University of Texas at Austin,Management Information System,315,110,81.7,3,1
+University of Texas at Austin,Management Information System,311,98,66.5,40,1
+University of Texas at Austin,Management Information System,320,108,65,41,1
+University of Texas at Austin,Management Information System,311,102,74,85,1
+University of Texas at Austin,Management Information System,321,104,71,76,1
+University of Texas at Austin,Management Information System,309,103,74.1,13,1
+University of Texas at Austin,Management Information System,321,104,60.32,39,1
+University of Texas at Austin,Management Information System,314,96,76.8,12,1
+University of Texas at Austin,Management Information System,314,114,77.2,20,1
+University of Texas at Austin,Management Information System,324,109,75,40,1
+University of Texas at Austin,Management Information System,308,109,70,84,1
+University of Texas at Austin,Management Information System,316,115,88.35,27,1
+University of Texas at Austin,Management Information System,323,111,92.15,2,1
+University of Texas at Austin,Management Information System,310,104,66,52,1
+University of Texas at Austin,Management Information System,305,95,81.13,34,0
+University of Texas at Austin,Management Information System,313,97,80,25,0
+University of Texas at Austin,Management Information System,326,113,73.625,6,0
+University of Texas at Austin,Management Information System,311,91,80.18,20,0
+University of Texas at Austin,Management Information System,303,95,61.1,27,0
+University of Texas at Austin,Management Information System,313,103,67,36,0
+University of Texas at Austin,Management Information System,327,113,76,30,0
+University of Utah,Management Information System,308,109,75.525,18,2
+University of Utah,Management Information System,308,101,56.05,21,2
+University of Utah,Management Information System,311,102,60.23,27,2
+University of Utah,Management Information System,312,96,74.195,44,2
+University of Utah,Management Information System,305,87,68,60,2
+University of Utah,Management Information System,305,101,60.68,36,2
+University of Utah,Management Information System,312,115,73,33,2
+University of Utah,Management Information System,302,93,69.4,50,2
+University of Utah,Management Information System,301,93,83.5,20,1
+University of Utah,Management Information System,302,109,63.2,32,1
+University of Utah,Management Information System,300,99,67.83,39,1
+University of Utah,Management Information System,307,97,67,48,1
+University of Utah,Management Information System,311,98,69.445,25,1
+University of Utah,Management Information System,299,97,72.3,48,1
+University of Utah,Management Information System,311,102,74,85,1
+University of Utah,Management Information System,314,99,65,30,1
+University of Utah,Management Information System,307,101,81.985,45,1
+University of Utah,Management Information System,321,104,62.1395,2,1
+University of Utah,Management Information System,313,109,81.74,25,1
+University of Utah,Management Information System,324,109,58.9,40,1
+University of Utah,Management Information System,297,81,62,46,1
+University of Utah,Management Information System,311,102,86.07,11,1
+University of Utah,Management Information System,320,108,65,41,1
+University of Utah,Management Information System,307,101,77.29,28,0
+University of Utah,Management Information System,319,101,62.415,15,0
+University of Utah,Management Information System,302,99,63.65,22,0
+University of Utah,Management Information System,312,90,80.75,30,0
+University of Utah,Management Information System,304,84,72,18,0
+University of Utah,Management Information System,305,102,75.525,15,0
+University of Utah,Management Information System,316,96,69.54,35,0
+University of Utah,Management Information System,303,93,70.87,1,0
+University of Utah,Management Information System,297,83,58.425,1,0
+University of Utah,Management Information System,299,89,69.06,33,0
+University of Utah,Management Information System,300,97,79.43,58,0
+University of Utah,Management Information System,309,96,65,18,0
+University of Utah,Management Information System,302,91,64,67,0
+University of Washington,Management Information System,306,103,63.17,27,2
+University of Washington,Management Information System,319,111,91.2,6,2
+University of Washington,Management Information System,324,113,75.05,15,2
+University of Washington,Management Information System,319,101,62.415,15,2
+University of Washington,Management Information System,319,105,64.6,6,2
+University of Washington,Management Information System,315,100,72,43,2
+University of Washington,Management Information System,310,106,75.6,42,2
+University of Washington,Management Information System,306,100,78,17,2
+University of Washington,Management Information System,319,113,73.4,26,2
+University of Washington,Management Information System,317,103,79,60,2
+University of Washington,Management Information System,315,105,70.3,2,2
+University of Washington,Management Information System,328,116,85.5,31,2
+University of Washington,Management Information System,317,109,87.21,6,2
+University of Washington,Management Information System,327,111,74.575,18,2
+University of Washington,Management Information System,324,104,71.25,20,2
+University of Washington,Management Information System,323,99,68.78,2,2
+University of Washington,Management Information System,323,99,70.11,18,1
+University of Washington,Management Information System,316,97,70,31,1
+University of Washington,Management Information System,316,112,80.56,21,1
+University of Washington,Management Information System,321,104,62.1395,2,1
+University of Washington,Management Information System,326,111,60.1,42,1
+University of Washington,Management Information System,329,114,68.4,51,1
+University of Washington,Management Information System,332,116,83.315,31,1
+University of Washington,Management Information System,324,114,78.85,30,1
+University of Washington,Management Information System,320,108,65,41,1
+University of Washington,Management Information System,330,110,79.8,30,1
+University of Washington,Management Information System,307,99,85.5,36,1
+University of Washington,Management Information System,320,103,74.575,52,1
+University of Washington,Management Information System,313,104,66.74,20,1
+University of Washington,Management Information System,322,109,90.81,25,1
+University of Washington,Management Information System,319,117,80.18,4,0
+University of Washington,Management Information System,319,112,71.44,35,0
+University of Washington,Management Information System,305,109,86,25,0
+University of Washington,Management Information System,315,102,64.22,19,0
+University of Washington,Management Information System,314,100,76,41,0
+University of Washington,Management Information System,312,108,72,67,0
+University of Washington,Management Information System,315,109,63.84,29,0
+University of Washington,Management Information System,319,105,72.295,40,0
+University of Washington,Management Information System,313,104,68.4,19,0
+University of Washington,Management Information System,316,101,81,15,0
+University of Washington,Management Information System,313,109,71.25,16,0
+University of Washington,Management Information System,318,118,80.085,30,0
+University of Washington,Management Information System,312,110,72.39,2,0
+University of Washington,Management Information System,317,110,65.835,25,0
+University of Washington,Management Information System,308,98,65,25,0
+University of Washington,Management Information System,315,112,78.28,1,0
+University of Washington,Information Management,312,110,81.7,24,2
+University of Washington,Information Management,320,104,65,60,2
+University of Washington,Information Management,306,103,63.17,27,2
+University of Washington,Information Management,316,102,67.26,40,2
+University of Washington,Information Management,322,107,74.47,28,2
+University of Washington,Information Management,318,108,79.135,1,2
+University of Washington,Information Management,316,112,73,20,2
+University of Washington,Information Management,308,101,69,48,2
+University of Washington,Information Management,326,115,89.11,1,1
+University of Washington,Information Management,316,111,82.08,1,1
+University of Washington,Information Management,324,117,80.655,8,1
+University of Washington,Information Management,325,102,69.73,35,1
+University of Washington,Information Management,309,117,70,12,1
+University of Washington,Information Management,326,113,68.5,44,1
+University of Washington,Information Management,322,110,81.6,24,1
+University of Washington,Information Management,307,107,69,19,1
+University of Washington,Information Management,322,114,64,29,1
+University of Washington,Information Management,321,109,60,29,1
+University of Washington,Information Management,321,112,73.24,32,1
+University of Washington,Information Management,317,114,61.52,36,1
+University of Washington,Information Management,304,104,69.635,44,1
+University of Washington,Information Management,319,113,73.4,26,1
+University of Washington,Information Management,325,115,86.64,4,1
+University of Washington,Information Management,329,114,68.4,54,1
+University of Washington,Information Management,318,112,70,11,0
+University of Washington,Information Management,311,107,52,35,0
+University of Washington,Information Management,315,112,65,12,0
+University of Washington,Information Management,321,112,63,60,0
+University of Washington,Information Management,317,118,29.83,6,0
+University of Washington,Information Management,323,111,76,48,0
+University of Washington,Information Management,316,103,79.135,41,0
+University of Washington,Information Management,326,113,73.625,6,0
+University of Washington,Information Management,320,110,58.9,40,0
+University of Washington,Information Management,318,111,63.46,6,0
+University of Washington,Information Management,316,102,73.72,54,0
+University of Washington,Information Management,306,115,63,16,0
+Worcester Polytechnic Institute,Management Information System,306,101,74.22,8,2
+Worcester Polytechnic Institute,Management Information System,306,86,62,4,2
+Worcester Polytechnic Institute,Management Information System,306,94,72.9,12,2
+Worcester Polytechnic Institute,Management Information System,310,94,57,6,2
+Worcester Polytechnic Institute,Management Information System,310,91,64,6,2
+Worcester Polytechnic Institute,Management Information System,309,95,66,30,2
+Worcester Polytechnic Institute,Management Information System,307,97,65.075,30,2
+Worcester Polytechnic Institute,Management Information System,298,85,55,20,2
+Worcester Polytechnic Institute,Management Information System,300,94,76.95,29,2
+Worcester Polytechnic Institute,Management Information System,306,101,60.325,1,1
+Worcester Polytechnic Institute,Management Information System,301,91,59.85,21,1
+Worcester Polytechnic Institute,Management Information System,313,109,81.74,25,1
+Worcester Polytechnic Institute,Management Information System,296,93,64.3,64,1
+Worcester Polytechnic Institute,Management Information System,306,115,63,16,1
+Worcester Polytechnic Institute,Management Information System,313,104,61.75,1,1
+Worcester Polytechnic Institute,Management Information System,297,99,55.81,24,1
+Worcester Polytechnic Institute,Management Information System,313,103,82.764,26,1
+Worcester Polytechnic Institute,Management Information System,312,96,71.535,1,1
+Worcester Polytechnic Institute,Management Information System,303,93,64.1,2,1
+Worcester Polytechnic Institute,Management Information System,310,104,87.97,38,1
+Worcester Polytechnic Institute,Management Information System,305,95,67,10,1
+Worcester Polytechnic Institute,Management Information System,310,107,76,36,1
+Worcester Polytechnic Institute,Management Information System,304,102,61,26,1
+Worcester Polytechnic Institute,Management Information System,309,95,68,23,1
+Worcester Polytechnic Institute,Management Information System,307,99,69.445,6,1
+Worcester Polytechnic Institute,Management Information System,317,109,64.885,2,1
+Worcester Polytechnic Institute,Management Information System,299,88,75.525,5,0
+Worcester Polytechnic Institute,Management Information System,308,99,62.5,56,0
+Worcester Polytechnic Institute,Management Information System,288,89,55.34,10,0
+Worcester Polytechnic Institute,Management Information System,302,86,65,28,0
+Worcester Polytechnic Institute,Management Information System,295,90,60.6,18,0
