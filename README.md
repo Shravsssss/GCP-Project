@@ -1,4 +1,4 @@
-# GCP-Project
+# Google Cloud Platform -Project
 
 The project is done using Google Cloud Platform free trial version.
 
